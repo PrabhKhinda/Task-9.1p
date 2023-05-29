@@ -26,3 +26,9 @@ Search Functionality
 Report lost items with relevant details to increase the chances of recovery.
 Search for found items using various search criteria to locate your lost belongings.
 Connect with individuals who have found your lost items through the contact details provided in the adverts.
+
+# Screenshots:
+
+![Untitled design](https://github.com/PrabhKhinda/Task-9.1p/assets/133014455/1dc61abd-2364-4919-b20a-b8dd8bc6ddab)
+
+
